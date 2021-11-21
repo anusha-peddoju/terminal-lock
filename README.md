@@ -8,7 +8,7 @@
 # step-5: exit #exit from terminal
 -----------------------------------------
 #to remove this lock for terminal
-#open bashrc file
-cmnd:-nano ~./bashrc
+      #open bashrc file
+      cmnd:-nano ~./bashrc
 # remove setlock from bashrc file by using backspace
 
