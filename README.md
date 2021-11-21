@@ -1,5 +1,5 @@
 # terminal-lock
-# How to run this repo
+# How to execute this repository
 # Run these commands in Terminal
 # step-1: git clone https://github.com/Anils117/set_terminal_lock.git #cloning repo
 # step-2: cd terminal-lock #get into directory
