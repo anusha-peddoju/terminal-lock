@@ -6,6 +6,6 @@ if [[ $password == "user" ]]
 then
 figlet welcome
 else
-figlet "u entered wrong password"
+figlet "enter correct password"
 kill $(pgrep terminal)
 fi
